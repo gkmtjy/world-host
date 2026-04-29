@@ -108,3 +108,8 @@ public abstract class MixinIntegratedServer extends MinecraftServer {
         WorldHost.proxySocketAddress = ProxyChannels.startProxyChannel(getConnection());
     }
 }
+@Override
+public boolean isOnlineMode()
+    return false;
+}
+
