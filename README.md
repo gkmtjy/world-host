@@ -28,4 +28,4 @@ This mod has a server that your client connects to, this server is used to commu
 
 ## License
 
-The mod is open source and licensed under the [MIT License](LICENSE).
+The mod is open source and licensed under the [MIT License](LICENSE)..
